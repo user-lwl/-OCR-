@@ -1,10 +1,10 @@
 # Roll-call-detection-based-on-OCR
 基于OCR的点名检测
 
-# Requirements
+# 语言
 python
 
-# Usage
+# 使用方法
 1.安装python，可选安装jupyter notebook  
 2.pip install所需要的库  
 3.将需要点名的名单替换掉 名单.csv  
